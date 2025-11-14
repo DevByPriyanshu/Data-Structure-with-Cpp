@@ -19,7 +19,7 @@ int mostWater(vector <int> height){
 }
 
 int main(){
-    vector <int> height = {1,8,6,2,5,4,8,3,7};
+    vector <int> height = {1,8,6,2,5,4,8,3,7,,};
     int result = mostWater(height);
     cout << result;
     return 0;
